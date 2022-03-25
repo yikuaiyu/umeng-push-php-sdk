@@ -1,5 +1,5 @@
 {
-	"name": "aiwozhe/umeng-push-php-sdk",
+	"name": "yikuaiyu/umeng-push-php-sdk",
     "description": "UMeng Push PHP SDK",
     "keywords": [ "umeng", "push", "sdk" ],
     "type": "library",
